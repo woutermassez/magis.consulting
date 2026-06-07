@@ -681,7 +681,8 @@ body{padding-bottom:60px}
   </div>
 
   <div class="hero-form" id="vraag">
-<form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field" action="/bedankt">
+<div id="form-success" style="display:none;padding:2rem 0;text-align:center"><div style="width:56px;height:56px;border-radius:50%;background:#667B9F;display:flex;align-items:center;justify-content:center;margin:0 auto 1rem;font-size:24px;color:white">✓</div><h3 style="font-family:'Lora',serif;font-size:22px;font-weight:400;color:#2C3547;margin-bottom:.75rem">Bedankt voor uw bericht</h3><p style="font-size:14px;color:#6B7A90;line-height:1.8">Wouter heeft uw vraag ontvangen en neemt <strong>binnen 24 uur</strong> persoonlijk contact met u op.<br><br>Dringende vraag? Bel <a href="tel:+32472067474" style="color:#667B9F">0472 06 74 74</a> of stuur een <a href="https://wa.me/32472067474" style="color:#667B9F">WhatsApp</a>.</p></div>
+<form id="contact-form" name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field">
 <input type="hidden" name="form-name" value="contact">
 <input type="hidden" name="bot-field">
     <div class="form-badge">Vrijblijvend · Persoonlijk · Vertrouwelijk</div>
