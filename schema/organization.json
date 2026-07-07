@@ -1,0 +1,21 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "Organization",
+    "LocalBusiness",
+    "LegalService",
+    "ProfessionalService"
+  ],
+  "@id": "https://www.magis.consulting/#organization",
+  "name": "Magis Consulting",
+  "url": "https://www.magis.consulting/",
+  "email": "wouter@magis.consulting",
+  "telephone": "+32472067474",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Arestraat 193",
+    "addressLocality": "Sint-Lievens-Esse",
+    "addressRegion": "Oost-Vlaanderen",
+    "addressCountry": "BE"
+  }
+}

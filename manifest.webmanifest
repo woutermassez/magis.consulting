@@ -1,0 +1,18 @@
+{
+  "name": "Magis Consulting",
+  "short_name": "Magis",
+  "description": "Juridische begeleiding bij nalatenschappen, erfrecht, successieplanning en vermogensplanning in Vlaanderen.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#1E2635",
+  "theme_color": "#1E2635",
+  "lang": "nl-BE",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

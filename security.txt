@@ -1,0 +1,4 @@
+Contact: mailto:wouter@magis.consulting
+Preferred-Languages: nl, en
+Canonical: https://www.magis.consulting/security.txt
+Policy: https://www.magis.consulting/
