@@ -1,9 +1,0 @@
-/* TEAM */
-Company: Magis Consulting
-Contact: wouter@magis.consulting
-Location: Sint-Lievens-Esse, Herzele, Oost-Vlaanderen, Belgium
-
-/* SITE */
-Language: Dutch (nl-BE)
-Stack: Static HTML, Netlify
-SEO: Enterprise-ready technical SEO baseline
