@@ -1,0 +1,95 @@
+{
+  "@context": "https://schema.org",
+  "@type": "OfferCatalog",
+  "name": "Diensten Magis Consulting",
+  "itemListElement": [
+    {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "name": "Aangifte nalatenschap",
+        "areaServed": "Vlaanderen",
+        "provider": {
+          "@id": "https://www.magis.consulting/#organization"
+        }
+      }
+    },
+    {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "name": "Successieplanning",
+        "areaServed": "Vlaanderen",
+        "provider": {
+          "@id": "https://www.magis.consulting/#organization"
+        }
+      }
+    },
+    {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "name": "Zorgvolmacht",
+        "areaServed": "Vlaanderen",
+        "provider": {
+          "@id": "https://www.magis.consulting/#organization"
+        }
+      }
+    },
+    {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "name": "Testament en erfrecht",
+        "areaServed": "Vlaanderen",
+        "provider": {
+          "@id": "https://www.magis.consulting/#organization"
+        }
+      }
+    },
+    {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "name": "Schenkingen en bankgift",
+        "areaServed": "Vlaanderen",
+        "provider": {
+          "@id": "https://www.magis.consulting/#organization"
+        }
+      }
+    },
+    {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "name": "Vermogensplanning",
+        "areaServed": "Vlaanderen",
+        "provider": {
+          "@id": "https://www.magis.consulting/#organization"
+        }
+      }
+    },
+    {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "name": "Vennootschap en successie",
+        "areaServed": "Vlaanderen",
+        "provider": {
+          "@id": "https://www.magis.consulting/#organization"
+        }
+      }
+    },
+    {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "name": "Bedrijfsoverdracht",
+        "areaServed": "Vlaanderen",
+        "provider": {
+          "@id": "https://www.magis.consulting/#organization"
+        }
+      }
+    }
+  ]
+}

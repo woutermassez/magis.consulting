@@ -1,0 +1,9 @@
+/* TEAM */
+Business: Magis Consulting
+Contact: wouter@magis.consulting
+Location: Sint-Lievens-Esse, Herzele, Oost-Vlaanderen, België
+
+/* SITE */
+Language: Nederlands (nl-BE)
+Platform: Netlify static site
+Standards: HTML5, Schema.org JSON-LD, Open Graph, XML Sitemap, robots.txt

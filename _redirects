@@ -1,0 +1,5 @@
+https://magis.consulting/* https://www.magis.consulting/:splat 301!
+http://magis.consulting/* https://www.magis.consulting/:splat 301!
+http://www.magis.consulting/* https://www.magis.consulting/:splat 301!
+/success /bedankt.html 301
+/thank-you /bedankt.html 301

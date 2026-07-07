@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Niet indexeren als sitemap: robots.txt, llms.txt, humans.txt en security.txt zijn geen XML-sitemaps.
+Sitemap: https://www.magis.consulting/sitemap.xml

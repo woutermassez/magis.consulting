@@ -1,0 +1,10 @@
+cluster,keyword,intent,priority
+nalatenschap,aangifte nalatenschap,transactional,hoog
+nalatenschap,nalatenschap afhandelen,transactional,hoog
+erfrecht,erfrecht Vlaanderen,informational,hoog
+erfbelasting,erfbelasting berekenen,informational,hoog
+successieplanning,successieplanning Vlaanderen,commercial,hoog
+zorgvolmacht,zorgvolmacht opstellen,commercial,hoog
+testament,testament advies,commercial,medium
+schenking,bankgift Vlaanderen,informational,medium
+vennootschappen,familiale vennootschap successie,commercial,medium
